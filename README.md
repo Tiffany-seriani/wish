@@ -28,7 +28,7 @@ Wish-Store/
 │   ├── smartwatch.jpg
 │   ├── camera.jpg
 │   └── headphones.jpg
-🎨 Customization
+ Customization
 
 You can easily customize:
 
@@ -43,12 +43,16 @@ The website is fully responsive and adapts to:
 Mobile phones
 Tablets
 Desktop screens
-💡 Future Improvements
+
+ Future Improvements
 Add shopping cart functionality
 Add product filtering
 Add login/signup page
 Connect to backend database
-👩‍💻 Author
+
+screenshots;
+![Home Page](landing page screenshot.png)
+ Author
 
 Created by TIFFANY
 
