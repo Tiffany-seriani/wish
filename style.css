@@ -3,6 +3,9 @@
     padding:0;
     box-sizing:border-box;
 }
+.navbar-brand{
+    font-family: 'Playfair Display', serif;
+}
 /* hero section */
 .hero{
      min-height:90vh;
@@ -42,6 +45,9 @@
     font-family: 'Playfair Display', serif;
      
 }
+.card-title{
+    color: black;
+}
 .card:hover{
     transform:translateY(-10px);
 }
@@ -49,6 +55,15 @@
 .card img{
     height:250px;
     object-fit:cover;
+}
+.btn-primary {
+    background-color: #222;
+    border-color: #222;
+}
+
+.btn-primary:hover {
+    background-color: #000;
+    border-color: #000;
 }
 /* footer */
 .footer{
