@@ -6,10 +6,10 @@ It showcases a modern landing page with a navigation bar, hero section, product 
 
 FEATURES;
 Responsive navigation bar (Bootstrap 5)
-Hero section with call-to-action button
+Hero section 
 Product grid layout using Bootstrap cards
 Hover effects on product cards
-Clean footer with contact information
+Clean footer 
 Mobile-friendly design
 
  TECHNOLOGIES USED
@@ -30,12 +30,7 @@ Wish-Store/
 │   └── headphones.jpg
  Customization
 
-You can easily customize:
 
-Fonts (Google Fonts like Poppins or Montserrat)
-Product images
-Colors in style.css
-Text content and pricing
 
 Mobile Responsive Design
 The website is fully responsive and adapts to:
